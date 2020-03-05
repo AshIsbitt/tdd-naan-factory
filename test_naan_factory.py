@@ -2,4 +2,3 @@
 
 from naan_factory_functions import *
 
-print(test_example())
